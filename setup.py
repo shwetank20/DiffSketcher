@@ -29,7 +29,7 @@ setup(
         'xformers',
         'einops',
         'pillow',
-        'torch>=1.13.1',
+        'torch==2.4.1',
         'torchvision',
         'tensorboard',
         'torchmetrics',
